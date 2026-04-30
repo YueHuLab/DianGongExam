@@ -73,3 +73,69 @@
 我们收到 Apple 或监管机构的要求
 法律要求
 感谢您使用《电工题库2026》！
+
+Terms of Service
+
+Last Updated: April 30, 2026
+
+1. Acceptance of Terms
+By downloading, installing, or using the Electrician Question Bank 2026 (hereinafter referred to as "the App"), you agree to be bound by these Terms of Service.
+
+2. Application License
+We grant you a limited, non-exclusive, non-transferable license to use the App on iOS devices that you own or control, solely for personal, non-commercial purposes.
+
+3. User Accounts
+
+Creating an account is not required to use the App.
+Practice records, error logs, and learning settings are stored locally on your device.
+You can delete the App at any time to clear all associated data.
+4. Application Features
+(Standard Features)
+
+Core question bank practice and mock exams
+Automatic error log archiving and review
+Basic mock exam mode and score tracking
+Fully offline operation; no internet connection required
+(Premium/Unlocked Features)
+
+Full access to all question banks, prediction papers, and targeted training modules
+Advanced error analysis and personalized learning reports
+Local data encryption and secure storage
+Ad-free, clean usage experience
+5. Purchases & Payments
+5.1 Purchase Model
+The App operates on a one-time purchase model with no subscription cycles, no auto-renewal, and no hidden fees.
+Upon completion of purchase, you will permanently unlock all Premium features on the current device.
+
+5.2 Transaction Processing
+All in-app purchases are processed securely through the Apple App Store.
+We only integrate necessary payment verification tools (e.g., RevenueCat SDK) to validate anonymous purchase receipts provided by Apple. We do not collect or store any of your personal identity or payment information.
+
+6. Intellectual Property
+All intellectual property rights in and to the App and its content (including but not limited to question bank data, interface design, textual explanations, icons, and layout) are owned by us. You may not copy, modify, distribute, or create derivative works without our prior written consent.
+
+7. Disclaimer
+The App is provided solely for the purpose of electrician exam preparation and reference.
+The question bank content is compiled based on publicly available exam syllabi and industry standards. We do not guarantee that all questions will exactly match official exams or be absolutely accurate.
+Actual exam results are subject to official publication. The App does not constitute any official certification, qualification guarantee, or employment commitment.
+The App is provided "as is" without any express or implied warranties.
+
+8. Limitation of Liability
+To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App (including but not limited to exam failures, loss of study time, or data misoperation).
+
+9. Third-Party Links
+The App may contain links to third-party websites or services. We are not responsible for the content, privacy policies, or practices of these third-party websites or services.
+
+10. Privacy
+Your privacy is important to us. The App is designed with an offline-first approach and does not collect or upload any personal identity data. Please refer to our Privacy Policy for details on how we handle your information.
+
+11. Changes to Terms
+We reserve the right to modify these Terms of Service at any time. In the event of material changes, we will notify you via in-app announcements. Your continued use of the App constitutes acceptance of the revised Terms.
+
+12. Termination
+We reserve the right to terminate your access to the App under the following circumstances:
+
+You violate these Terms of Service;
+We receive requests from Apple or regulatory authorities;
+Legal requirements dictate.
+Thank you for using Electrician Question Bank 2026!
