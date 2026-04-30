@@ -75,4 +75,72 @@
 
 最后更新： 2026 年 4 月 30 日
 版本： 1.0
+Privacy Policy
 
+Applies to: 2026 Electrician Exam Question Bank and its related one-time purchase apps (including “Minimalist Electrician” visible on your iPhone home screen).
+
+Core Commitment: We highly respect your privacy. This app does not collect, store, or share any data that can personally identify you. Your core data, such as question practice records and error logs, are stored exclusively on your device locally.
+
+1. What Data We Collect
+Short Answer: We do not collect your personally identifiable information (PII).
+The app’s core question practice functionality runs entirely offline and requires no internet connection to use. Therefore:
+❌ We do not collect your name, email address, or phone number.
+❌ We do not collect your precise location data.
+❌ We do not collect device identifiers for ad tracking.
+❌ We never use any third-party advertising SDKs.
+
+2. How Data is Stored
+All data generated within the app (e.g., practice records, error logs, mock exam scores) is stored locally on your device:
+📱 Stored within your device using Apple’s native sandboxing mechanism.
+🔐 Inaccessible to any other apps or network services.
+🗑️ When you uninstall the app, all related records are automatically and permanently deleted by the system.
+
+3. Does Data Get Transmitted to Servers?
+Our core service has no servers; all question practice logic runs locally on your device:
+✅ No account registration or forced login required.
+✅ Practice data is never uploaded to any cloud service.
+Note: If you enable iCloud backup on your device, your local app data may be backed up to your iCloud account. This is governed by Apple’s official Privacy Policy.
+
+4. Third-Party Services (In-App Purchases & Subscription Management)
+To provide you with a clean, “ad-free, one-time purchase” experience, we process In-App Purchases (IAP). To do this, we integrate the following necessary and secure third-party service:
+✅ RevenueCat: We use the RevenueCat SDK to verify and manage your “One-Time Purchase – Premium Edition” status. RevenueCat only processes anonymous purchase receipts provided by Apple. It does not collect or associate your real identity information (e.g., name or Apple ID).
+
+Other than this, we do not integrate any third-party services:
+❌ No ad networks (e.g., ChuanShanJia, GuangDianTong)
+❌ No intrusive user behavior analytics SDKs (e.g., Umeng)
+❌ No social media sharing SDKs
+
+5. Device Permissions
+We adhere to a “minimalist tool” principle and focus solely on question practice without overstepping boundaries. This app does not require any of the following sensitive permissions:
+🚫 Camera or microphone access
+🚫 Photo library access
+🚫 Location services
+🚫 Local Network permission
+
+6. Children’s Privacy
+This app is primarily designed for adults preparing for special operations electrician licenses. We do not intentionally collect personal data from children under 13. In fact, we do not collect personally identifiable information from any users.
+
+7. Updates to This Privacy Policy
+We may update this privacy policy from time to time to comply with the latest Apple App Store review guidelines:
+📅 Updated policies will be published on the App Store page.
+✅ Your continued use of the app constitutes your acceptance of the updated policy.
+
+8. GDPR Compliance (EU Users)
+If you are located in the European Union, under the General Data Protection Regulation (GDPR), you enjoy the following rights:
+📋 Right of Access: Not applicable, as we do not collect personal data.
+🗑️ Right to Erasure: Uninstalling the app deletes all local data.
+📤 Right to Data Portability: Not applicable (no data is centrally stored on servers).
+❌ Right to Object: Not applicable (no data processing occurs).
+
+9. CCPA Compliance (California Users)
+Under the California Consumer Privacy Act (CCPA):
+🚫 We have not sold any consumers' personal information in the past 12 months.
+🚫 We do not collect any personal information.
+
+Contact Us
+
+If you have any questions, concerns, or need assistance with purchase restoration regarding this privacy policy or the app's in-app purchase status, please contact the developer via:
+📧 Developer Email: 710354687@qq.com
+
+Last Updated: April 30, 2026
+Version: 1.0
